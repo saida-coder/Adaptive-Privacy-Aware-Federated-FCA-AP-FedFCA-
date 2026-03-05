@@ -60,7 +60,7 @@ Better preservation of conceptual knowledge while maintaining strong privacy gua
 
 ## 🏗 Federated Architecture
 <p align="center">
-<img src="architecture.png" width="700">
+<img src="architecture.PNG" width="700">
 </p>
 
 Each participant maintains its **local dataset**, constructs a **local formal context**, extracts **formal concepts**, applies **adaptive differential privacy**, and shares protected information with the **federated aggregator** to build the global concept lattice.
