@@ -67,23 +67,6 @@ Each participant maintains its **local dataset**, constructs a **local formal co
 
 ---
 
-## 📊 Evaluation Metrics
-
-### 📈 Concept Preservation Rate (CPR)
-
-Measures the proportion of global concepts preserved in the federated lattice compared to the centralized lattice.
-CPR = |C_federated ∩ C_centralized| / |C_centralized|
-
-### 📉 Support Degradation
-
-Measures the reduction in concept support caused by privacy mechanisms or distributed aggregation.
-
-### 🔗 Jaccard Similarity
-
-Measures similarity between concept intents.
-J(A,B) = |A ∩ B| / |A ∪ B|
-
----
 
 ## 📚 Scientific References
 
