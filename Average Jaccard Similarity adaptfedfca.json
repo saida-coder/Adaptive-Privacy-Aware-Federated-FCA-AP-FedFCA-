@@ -1,0 +1,122 @@
+[
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "type_partition": "IID",
+    "average_jaccard_similarity": 0.9435
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "type_partition": "IID",
+    "average_jaccard_similarity": 0.9387
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "type_partition": "IID",
+    "average_jaccard_similarity": 0.9341
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "type_partition": "IID",
+    "average_jaccard_similarity": 0.9289
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "type_partition": "IID",
+    "average_jaccard_similarity": 0.9224
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "type_partition": "IID",
+    "average_jaccard_similarity": 0.9152
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "type_partition": "IID",
+    "average_jaccard_similarity": 0.9078
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "type_partition": "IID",
+    "average_jaccard_similarity": 0.8991
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "type_partition": "IID",
+    "average_jaccard_similarity": 0.8896
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1.0,
+    "type_partition": "IID",
+    "average_jaccard_similarity": 0.8783
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "type_partition": "Non-IID",
+    "average_jaccard_similarity": 0.9214
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "type_partition": "Non-IID",
+    "average_jaccard_similarity": 0.9136
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "type_partition": "Non-IID",
+    "average_jaccard_similarity": 0.9047
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "type_partition": "Non-IID",
+    "average_jaccard_similarity": 0.8958
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "type_partition": "Non-IID",
+    "average_jaccard_similarity": 0.8859
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "type_partition": "Non-IID",
+    "average_jaccard_similarity": 0.8756
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "type_partition": "Non-IID",
+    "average_jaccard_similarity": 0.8652
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "type_partition": "Non-IID",
+    "average_jaccard_similarity": 0.8541
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "type_partition": "Non-IID",
+    "average_jaccard_similarity": 0.8425
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1.0,
+    "type_partition": "Non-IID",
+    "average_jaccard_similarity": 0.8317
+  }
+]

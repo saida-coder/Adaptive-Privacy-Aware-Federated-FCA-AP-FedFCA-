@@ -1,0 +1,122 @@
+[
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "type_partition": "IID",
+    "concept_preservation_rate": 0.8924
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "type_partition": "IID",
+    "concept_preservation_rate": 0.8879
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "type_partition": "IID",
+    "concept_preservation_rate": 0.8835
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "type_partition": "IID",
+    "concept_preservation_rate": 0.8786
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "type_partition": "IID",
+    "concept_preservation_rate": 0.8728
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "type_partition": "IID",
+    "concept_preservation_rate": 0.8669
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "type_partition": "IID",
+    "concept_preservation_rate": 0.8613
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "type_partition": "IID",
+    "concept_preservation_rate": 0.8557
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "type_partition": "IID",
+    "concept_preservation_rate": 0.8498
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1.0,
+    "type_partition": "IID",
+    "concept_preservation_rate": 0.8426
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "type_partition": "Non-IID",
+    "concept_preservation_rate": 0.8743
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "type_partition": "Non-IID",
+    "concept_preservation_rate": 0.8691
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "type_partition": "Non-IID",
+    "concept_preservation_rate": 0.8634
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "type_partition": "Non-IID",
+    "concept_preservation_rate": 0.8572
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "type_partition": "Non-IID",
+    "concept_preservation_rate": 0.851
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "type_partition": "Non-IID",
+    "concept_preservation_rate": 0.8446
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "type_partition": "Non-IID",
+    "concept_preservation_rate": 0.8383
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "type_partition": "Non-IID",
+    "concept_preservation_rate": 0.8339
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "type_partition": "Non-IID",
+    "concept_preservation_rate": 0.8298
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1.0,
+    "type_partition": "Non-IID",
+    "concept_preservation_rate": 0.8241
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "type_partition": "IID",
+    "support_degradation_avg": 0.8893
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "type_partition": "IID",
+    "support_degradation_avg": 0.8927
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "type_partition": "IID",
+    "support_degradation_avg": 0.8954
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "type_partition": "IID",
+    "support_degradation_avg": 0.8881
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "type_partition": "IID",
+    "support_degradation_avg": 0.9016
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "type_partition": "IID",
+    "support_degradation_avg": 0.9072
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "type_partition": "IID",
+    "support_degradation_avg": 0.9128
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "type_partition": "IID",
+    "support_degradation_avg": 0.9059
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "type_partition": "IID",
+    "support_degradation_avg": 0.9184
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1.0,
+    "type_partition": "IID",
+    "support_degradation_avg": 0.9237
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "type_partition": "Non-IID",
+    "support_degradation_avg": 0.8942
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "type_partition": "Non-IID",
+    "support_degradation_avg": 0.9035
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "type_partition": "Non-IID",
+    "support_degradation_avg": 0.9091
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "type_partition": "Non-IID",
+    "support_degradation_avg": 0.8986
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "type_partition": "Non-IID",
+    "support_degradation_avg": 0.9153
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "type_partition": "Non-IID",
+    "support_degradation_avg": 0.9197
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "type_partition": "Non-IID",
+    "support_degradation_avg": 0.9241
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "type_partition": "Non-IID",
+    "support_degradation_avg": 0.9284
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "type_partition": "Non-IID",
+    "support_degradation_avg": 0.93
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1.0,
+    "type_partition": "Non-IID",
+    "support_degradation_avg": 0.9292
+  }
+]

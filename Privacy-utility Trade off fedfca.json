@@ -1,0 +1,5402 @@
+[
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9598679623099736
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9315163055913056
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9591980412679426
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9260319505056348
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9463041683742169
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9444040818250378
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9415503941788436
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9600840336134455
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9086314327485381
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9414668141592919
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9125538508433246
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9493642873777365
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9319217391304347
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9187406909182771
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9316959929126346
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9289473684210526
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9413846153846154
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.916095634920635
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.8919696576256114
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9135497764530551
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9572480769230769
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9537815734989649
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9597000937207123
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9645187491351875
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9629222222222222
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.925526589115081
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9493772843567252
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9366252076411961
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9507490241885864
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9586720647773279
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.915661406025825
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9486450311697836
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9490664873017814
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.947299657160667
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9406735108677617
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.916826923076923
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9453381318347948
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9582251334303736
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9641876430205949
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.936508256880734
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9632588141494054
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9474893970408677
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9439020121443028
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9447846422338569
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.943108100711549
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9479787644787645
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9144525844525844
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9218441558441558
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9004379008612791
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9450548651177663
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9539941084734015
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.957125
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9543711685823756
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.924316815094587
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9515059093155979
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9513350559862188
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9009999999999999
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9192037037037037
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9431027843450752
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.907730802255918
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9334716634837603
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9557664412070759
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9429683235867447
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9469091183574879
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.8810588793922126
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9589518449030645
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9620741596638656
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.952639751552795
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.8814234224564143
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9306465596330276
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9580730036394777
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9631637681159421
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9376854483096521
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9315789473684211
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9509119530671254
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9103005243045494
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9360508893639921
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9580981912144703
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9198358632060419
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.928312696170747
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.8787619505153061
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9410637954353339
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.8750801391524351
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9199611283109735
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9406192756292204
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.943114010989011
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9521777003484321
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9394267006547709
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.944141424991049
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9432402143522832
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9260632407407408
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9577060178018575
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9605047281323876
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9201989332096475
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9446546900161031
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9531245142487047
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9468032313500113
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9686549082802144
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.91846875
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9329926869098053
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9503151478207864
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9125030487804878
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9590565852701776
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9539960010029475
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9364176513815402
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.8786292102206736
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9355583561144524
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9566152329749105
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9602546055739253
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.904531259175607
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.8798097953216374
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.949908240114813
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9206101651701586
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9307232510288066
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9423502024291499
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9697656840513983
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9353395061728396
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9201339285714286
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.8816517857142857
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9760505698005697
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9018246882086167
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9205544062646096
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9458689458689459
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.711675
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9352578947368422
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.938088486676722
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9396631118881118
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9468962635201573
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9631215627648555
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9598385602752415
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9383394437551695
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9636887075718017
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9291383219954648
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9315653908999497
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9297611708144796
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9123344336450883
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9683910788381743
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9578309462915601
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9181155493155494
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9504651493598862
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9255
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9382428221288516
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9155170454545455
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9190197368421053
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9393667223865244
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9409268548976608
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.8995557237600922
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9424925595238095
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.89442
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9265625
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9474683016644572
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9507497960706723
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.960125
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9452341137123746
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.95588188747417
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.958156779661017
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.962125
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9335886001051893
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9039068805488297
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9587296195652174
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9400000000000001
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9475072831220482
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9296922585361254
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9507897324037738
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9281749942594719
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9496832358674464
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9538316774780926
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9687521270561543
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9628535512256443
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.8977995645891909
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9546783625730995
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9369529338142054
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9116294063581315
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9461101902689156
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9392869047619047
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9571836317705624
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9352380952380952
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9234074074074075
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9510477306307139
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9156398955773956
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9388085197934596
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9592192307692308
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9692820133234641
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9539619047619047
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9592452540747842
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9440669291338584
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9451135379771743
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9480732718894009
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9308155922038981
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9596388888888888
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9185396445659604
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9382411004733702
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9313537675606641
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9227478757230969
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9530955882352942
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9321953536933918
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9235192307692308
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9532053353658536
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9288765432098766
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.928450481041313
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9598679623099736
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9315163055913056
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9591980412679426
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9260319505056348
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9463041683742169
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9444040818250378
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9415503941788436
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9600840336134455
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9086314327485381
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9414668141592919
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9125538508433246
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9493642873777365
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9319217391304347
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9187406909182771
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9316959929126346
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9289473684210526
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9413846153846154
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.916095634920635
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.8919696576256114
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9135497764530551
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9572480769230769
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9537815734989649
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9597000937207123
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9645187491351875
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9629222222222222
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.925526589115081
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9493772843567252
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9366252076411961
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9507490241885864
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9586720647773279
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.915661406025825
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9486450311697836
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9490664873017814
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.947299657160667
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9406735108677617
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.916826923076923
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9453381318347948
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9582251334303736
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9641876430205949
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.936508256880734
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9632588141494054
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9474893970408677
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9439020121443028
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9447846422338569
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.943108100711549
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9479787644787645
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9144525844525844
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9218441558441558
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9004379008612791
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9450548651177663
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9539941084734015
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.957125
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9543711685823756
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.924316815094587
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9515059093155979
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9513350559862188
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9009999999999999
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9192037037037037
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9431027843450752
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.907730802255918
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9334716634837603
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9557664412070759
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9429683235867447
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9469091183574879
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.8810588793922126
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9589518449030645
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9620741596638656
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.952639751552795
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.8814234224564143
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9306465596330276
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9580730036394777
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9631637681159421
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9376854483096521
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9315789473684211
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9509119530671254
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9103005243045494
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9360508893639921
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9580981912144703
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9198358632060419
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.928312696170747
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.8787619505153061
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9410637954353339
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.8750801391524351
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9199611283109735
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9406192756292204
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.943114010989011
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9521777003484321
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9394267006547709
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.944141424991049
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9432402143522832
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9260632407407408
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9577060178018575
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9605047281323876
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9201989332096475
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9446546900161031
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9531245142487047
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9468032313500113
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9686549082802144
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.91846875
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9329926869098053
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9503151478207864
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9125030487804878
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9590565852701776
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9539960010029475
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9364176513815402
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.8786292102206736
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9355583561144524
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9566152329749105
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9602546055739253
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.904531259175607
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.8798097953216374
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.949908240114813
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9206101651701586
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9307232510288066
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9423502024291499
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9697656840513983
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9353395061728396
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9201339285714286
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.8816517857142857
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9760505698005697
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9018246882086167
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9205544062646096
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9458689458689459
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.711675
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9352578947368422
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.938088486676722
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9396631118881118
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9468962635201573
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9631215627648555
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9598385602752415
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9383394437551695
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9636887075718017
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9291383219954648
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9315653908999497
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9297611708144796
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9123344336450883
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9683910788381743
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9578309462915601
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9181155493155494
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9504651493598862
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9255
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9382428221288516
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9155170454545455
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9190197368421053
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9393667223865244
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9409268548976608
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.8995557237600922
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9424925595238095
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.89442
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9265625
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9474683016644572
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9507497960706723
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.960125
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9452341137123746
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.95588188747417
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.958156779661017
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.962125
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9335886001051893
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9039068805488297
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9587296195652174
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9400000000000001
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9475072831220482
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9296922585361254
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9507897324037738
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9281749942594719
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9496832358674464
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9538316774780926
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9687521270561543
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9628535512256443
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.8977995645891909
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9546783625730995
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9369529338142054
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9116294063581315
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9461101902689156
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9392869047619047
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9571836317705624
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9352380952380952
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9234074074074075
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9510477306307139
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9156398955773956
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9388085197934596
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9592192307692308
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9692820133234641
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9539619047619047
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9592452540747842
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9440669291338584
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9451135379771743
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9480732718894009
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9308155922038981
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9596388888888888
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9185396445659604
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9382411004733702
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9313537675606641
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9227478757230969
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9530955882352942
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9321953536933918
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9235192307692308
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9532053353658536
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9288765432098766
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.928450481041313
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9598679623099736
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9315163055913056
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9591980412679426
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9260319505056348
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9463041683742169
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9444040818250378
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9415503941788436
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9600840336134455
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9086314327485381
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9414668141592919
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9125538508433246
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9493642873777365
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9319217391304347
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9187406909182771
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9316959929126346
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9289473684210526
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9413846153846154
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.916095634920635
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.8919696576256114
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9135497764530551
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9572480769230769
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9537815734989649
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9597000937207123
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9645187491351875
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9629222222222222
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.925526589115081
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9493772843567252
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9366252076411961
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9507490241885864
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9586720647773279
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.915661406025825
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9486450311697836
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9490664873017814
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.947299657160667
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9406735108677617
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.916826923076923
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9453381318347948
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9582251334303736
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9641876430205949
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.936508256880734
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9632588141494054
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9474893970408677
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9439020121443028
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9447846422338569
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.943108100711549
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9479787644787645
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9144525844525844
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9218441558441558
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9004379008612791
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9450548651177663
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9539941084734015
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.957125
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9543711685823756
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.924316815094587
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9515059093155979
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9513350559862188
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9009999999999999
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9192037037037037
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9431027843450752
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.907730802255918
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9334716634837603
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9557664412070759
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9429683235867447
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9469091183574879
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.8810588793922126
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9589518449030645
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9620741596638656
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.952639751552795
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.8814234224564143
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9306465596330276
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9580730036394777
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9631637681159421
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9376854483096521
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9315789473684211
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9509119530671254
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9103005243045494
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9360508893639921
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9580981912144703
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9198358632060419
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.928312696170747
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.8787619505153061
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9410637954353339
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.8750801391524351
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9199611283109735
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9406192756292204
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.943114010989011
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9521777003484321
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9394267006547709
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.944141424991049
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9432402143522832
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9260632407407408
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9577060178018575
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9605047281323876
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9201989332096475
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9446546900161031
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9531245142487047
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9468032313500113
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9686549082802144
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.91846875
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9329926869098053
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9503151478207864
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9125030487804878
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9590565852701776
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9539960010029475
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9364176513815402
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.8786292102206736
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9355583561144524
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9566152329749105
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9602546055739253
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.904531259175607
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.8798097953216374
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.949908240114813
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9206101651701586
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9307232510288066
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9423502024291499
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9697656840513983
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9353395061728396
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9201339285714286
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.8816517857142857
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.2,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9760505698005697
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9018246882086167
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9205544062646096
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9458689458689459
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.711675
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9352578947368422
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.938088486676722
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9396631118881118
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9468962635201573
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9631215627648555
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.3,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9598385602752415
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9383394437551695
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9636887075718017
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9291383219954648
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9315653908999497
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9297611708144796
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9123344336450883
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9683910788381743
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9578309462915601
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9181155493155494
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.4,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9504651493598862
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9255
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9382428221288516
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9155170454545455
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9190197368421053
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9393667223865244
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9409268548976608
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.8995557237600922
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9424925595238095
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.89442
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.5,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9265625
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9474683016644572
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9507497960706723
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.960125
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9452341137123746
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.95588188747417
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.958156779661017
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.962125
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9335886001051893
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9039068805488297
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.6,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9587296195652174
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9400000000000001
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9475072831220482
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9296922585361254
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9507897324037738
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9281749942594719
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9496832358674464
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9538316774780926
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9687521270561543
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9628535512256443
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.7,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.8977995645891909
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9546783625730995
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9369529338142054
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9116294063581315
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9461101902689156
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9392869047619047
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9571836317705624
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9352380952380952
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9234074074074075
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9510477306307139
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.8,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9156398955773956
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9388085197934596
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9592192307692308
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9692820133234641
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9539619047619047
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9592452540747842
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9440669291338584
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9451135379771743
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9480732718894009
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9308155922038981
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 0.9,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.9596388888888888
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.1,
+    "threshold": 0.4,
+    "global_stability": 0.9185396445659604
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.2,
+    "threshold": 0.4,
+    "global_stability": 0.9382411004733702
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.3,
+    "threshold": 0.4,
+    "global_stability": 0.9313537675606641
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.4,
+    "threshold": 0.4,
+    "global_stability": 0.9227478757230969
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.5,
+    "threshold": 0.4,
+    "global_stability": 0.9530955882352942
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.6,
+    "threshold": 0.4,
+    "global_stability": 0.9321953536933918
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.7,
+    "threshold": 0.4,
+    "global_stability": 0.9235192307692308
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.8,
+    "threshold": 0.4,
+    "global_stability": 0.9532053353658536
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 0.9,
+    "threshold": 0.4,
+    "global_stability": 0.9288765432098766
+  },
+  {
+    "dataset_name": "mushroom",
+    "fraction": 1,
+    "num_providers": 250,
+    "type_partition": "Non-IID",
+    "context_sensitivity": 1,
+    "threshold": 0.4,
+    "global_stability": 0.928450481041313
+  }
+]
