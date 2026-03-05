@@ -59,21 +59,9 @@ Better preservation of conceptual knowledge while maintaining strong privacy gua
 ---
 
 ## 🏗 Federated Architecture
-         +----------------------+
-            |   Global Aggregator  |
-            +----------+-----------+
-                       |
-   ------------------------------------------------
-   |                 |                |            |
-
-+-----------+ +-----------+ +-----------+ +-----------+
-| Client 1 | | Client 2 | | Client 3 | | Client N |
-+-----------+ +-----------+ +-----------+ +-----------+
-| | | |
-Local FCA Local FCA Local FCA Local FCA
-Extraction Extraction Extraction Extraction
-| | | |
--------- Privacy-Preserving Concept Sharing --------
+<p align="center">
+<img src="architecture.png" width="700">
+</p>
 
 Each participant maintains its **local dataset**, constructs a **local formal context**, extracts **formal concepts**, applies **adaptive differential privacy**, and shares protected information with the **federated aggregator** to build the global concept lattice.
 
